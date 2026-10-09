@@ -1,0 +1,28 @@
+# Local secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local environments and generated files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.coverage
+.pytest_cache/
+# Original datasets, recordings and model weights
+*.xlsx
+*.xls
+*.sqlite
+*.sqlite3
+*.db
+*.wav
+*.mp3
+*.flac
+*.safetensors
+*.pt
+*.pth
+.DS_Store
+Thumbs.db

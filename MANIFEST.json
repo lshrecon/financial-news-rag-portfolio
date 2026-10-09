@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-09",
+  "kind": "review-source-excerpts",
+  "project": "financial-rag",
+  "source_files": [
+    {
+      "path": "LangGraph.ipynb",
+      "source": "financial-rag/LangGraph.ipynb",
+      "source_sha256": "c6ce9935838457789bb19bd639e2c9245bb760def1b18f7c59f06d0de689e0b8",
+      "sha256": "922ff6241f908672ca1315ea211d20cb17bbc8dbcc5850376037c3b2c6d1f369",
+      "transformation": "notebook output, execution count, attachments, metadata removed; cell source unchanged"
+    },
+    {
+      "path": "price_windows.py",
+      "source": "financial-rag/price_windows.py",
+      "source_sha256": "d718d1af7a1948e9dd1cd2fd94a84826aca37ebfb40ae9500dbcfb043340cff3",
+      "sha256": "d718d1af7a1948e9dd1cd2fd94a84826aca37ebfb40ae9500dbcfb043340cff3",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "retrieval_contracts.py",
+      "source": "financial-rag/retrieval_contracts.py",
+      "source_sha256": "3efda112824e8e6c9a696959f59bca3dac45ab551a3478905a9d3872f514b1fe",
+      "sha256": "3efda112824e8e6c9a696959f59bca3dac45ab551a3478905a9d3872f514b1fe",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "macro_windows.py",
+      "source": "financial-rag/macro_windows.py",
+      "source_sha256": "7073c8c07c75b12e8abbca9a2f6271c5f9e32220ceb87aa35a597bc31c7fc9b1",
+      "sha256": "7073c8c07c75b12e8abbca9a2f6271c5f9e32220ceb87aa35a597bc31c7fc9b1",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "source_evidence.py",
+      "source": "financial-rag/source_evidence.py",
+      "source_sha256": "0515f28e420cf3110456e50757904ca285f07afa4f92f17331a59253fc0c27cf",
+      "sha256": "0515f28e420cf3110456e50757904ca285f07afa4f92f17331a59253fc0c27cf",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "offline_runtime.py",
+      "source": "financial-rag/offline_runtime.py",
+      "source_sha256": "53e7b93c2e45f223a4022bdd5e50fe45987394ee91146b17001eb8e1e2cd08de",
+      "sha256": "53e7b93c2e45f223a4022bdd5e50fe45987394ee91146b17001eb8e1e2cd08de",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/test_price_windows.py",
+      "source": "financial-rag/tests/test_price_windows.py",
+      "source_sha256": "f730fbc57d004d9048242fa80bca1fd9885541a524a3a0122a04eb029d55e17e",
+      "sha256": "f730fbc57d004d9048242fa80bca1fd9885541a524a3a0122a04eb029d55e17e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/test_notebook_integration.py",
+      "source": "financial-rag/tests/test_notebook_integration.py",
+      "source_sha256": "69e261d11d9a12c4bc950490a321bb84ee806c546ce7ae5391c23a7cc6034f8a",
+      "sha256": "69e261d11d9a12c4bc950490a321bb84ee806c546ce7ae5391c23a7cc6034f8a",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/test_graph_runtime.py",
+      "source": "financial-rag/tests/test_graph_runtime.py",
+      "source_sha256": "68896bd11be76f062cf09def4261af5ab0e6297ca7a8da46dbe60f2b9f6ed4b0",
+      "sha256": "68896bd11be76f062cf09def4261af5ab0e6297ca7a8da46dbe60f2b9f6ed4b0",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/test_event_context.py",
+      "source": "financial-rag/tests/test_event_context.py",
+      "source_sha256": "80cd9e7c145870ffe4cf673bdce40b4709c45a82fe0b8ebfffe36c0386fce37e",
+      "sha256": "80cd9e7c145870ffe4cf673bdce40b4709c45a82fe0b8ebfffe36c0386fce37e",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/test_report_sources.py",
+      "source": "financial-rag/tests/test_report_sources.py",
+      "source_sha256": "1ffbd68844aa11037e883bfff218865f1baadb9e9aea5ddcec5f3326afbd6b2b",
+      "sha256": "1ffbd68844aa11037e883bfff218865f1baadb9e9aea5ddcec5f3326afbd6b2b",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/legacy_price_window.py",
+      "source": "financial-rag/tests/legacy_price_window.py",
+      "source_sha256": "b9c9ed923a67e3ed28c631fbd2ad7b8988b4fa6acfcbdf4014a07958254309b9",
+      "sha256": "b9c9ed923a67e3ed28c631fbd2ad7b8988b4fa6acfcbdf4014a07958254309b9",
+      "transformation": "unchanged"
+    },
+    {
+      "path": "tests/fixtures/pre_graph_repair.ipynb",
+      "source": "financial-rag/tests/fixtures/pre_graph_repair.ipynb",
+      "source_sha256": "20255dfd9a456f23f29af0a86b8c7e512fc302ed415c392d7468be8aaa69fc87",
+      "sha256": "b69d0905cb8c50ce325d64aaa81fe69a73af70187624f1220ffb16d22ab13425",
+      "transformation": "notebook output, execution count, attachments, metadata removed; cell source unchanged"
+    }
+  ],
+  "readme_sha256": "33b411487b4ac61be7ba44e86d7a126546abf48b370a4838d7b5d9b26c037037",
+  "excluded": "original data, real recordings, credentials, binaries, environments, private verification logs",
+  "scope": "Existing verification is described in README. This manifest identifies distributed files; it is not an execution success claim."
+}
